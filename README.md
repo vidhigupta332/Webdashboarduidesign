@@ -1,11 +1,18 @@
+Digital Guard is a frontend dashboard UI for an Edge-AI based agricultural pest monitoring system. The system uses solar-powered ESP32-CAM devices with vision and acoustic sensing to detect crop-destroying pests and provide early warnings to farmers.
 
-  # Web Dashboard UI Design
+This repository contains only the frontend UI design and implementation of the dashboard. No backend, machine learning models, or hardware integration are included.
 
-  This is a code bundle for Web Dashboard UI Design. The original project is available at https://www.figma.com/design/H0RqPzXGL3vumgTozhktLw/Web-Dashboard-UI-Design.
+Dashboard Features:
 
-  ## Running the code
+Overview dashboard with system status cards
 
-  Run `npm i` to install the dependencies.
+Real-time pest alert visualization
 
-  Run `npm run dev` to start the development server.
+Crop health indicators
+
+Geospatial heatmap view for pest activity
+
+Organic pest remedy recommendation UI
+
+Edge device status and battery monitoring UI
   
